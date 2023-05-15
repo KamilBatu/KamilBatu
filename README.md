@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 Web developer with a passion for building web applications.<br>💻 Specializes in both front-end and back-end development.<br>🌱 Currently focusing on developing skills in React and PHP.<br>👍 Enjoys coding, tackling challenges, and gaming<br>💬 Open to answering questions about React and PHP and connecting with other developers..
+🔭 Web developer with a passion for building web applications.<br>💻 Specializes in both front-end and back-end development.<br>🌱 Currently focusing on developing skills in React and PHP.<br>👍 Enjoys coding, tackling challenges, and gaming
 
 
 ## 🌐 Socials:
